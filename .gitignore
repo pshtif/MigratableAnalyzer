@@ -1,0 +1,8 @@
+.vs/
+MigratableAnalyzer.Vsix/bin/
+MigratableAnalyzer.Vsix/obj/MigratableAnalyzer.Vsix.csproj.nuget.dgspec.json
+MigratableAnalyzer.Vsix/obj/
+MigratableAnalyzer/bin/
+MigratableAnalyzer/obj/
+MigratableAnalyzer.Package/bin/
+MigratableAnalyzer.Package/obj/
